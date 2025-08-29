@@ -2,8 +2,6 @@
 
 A REST API built for the VIT Full Stack assignment.
 
-
-
 ##  Setup
 
 1. **Install dependencies**
@@ -13,11 +11,6 @@ A REST API built for the VIT Full Stack assignment.
 2. **Run the server**
 
    npm start
-
-3. **For development (auto-restart with nodemon)**
-
-
-   npm run dev
 
 ##  API Endpoints
 

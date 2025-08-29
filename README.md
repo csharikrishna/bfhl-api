@@ -1,7 +1,3 @@
-Got it 👍
-Here’s the **full clean `README.md` copy-paste version** — no extra text, just ready to use:
-
-`markdown
 # BFHL API
 
 A REST API built for the VIT Full Stack assignment.

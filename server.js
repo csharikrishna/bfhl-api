@@ -90,9 +90,9 @@ app.post('/bfhl', (req, res) => {
 
         const response = {
             is_success: true,
-            user_id: "john_doe_17091999",
-            email: "john@xyz.com",
-            roll_number: "ABCD123",
+            user_id: "csharikrishna",
+            email: "csharikrishna1806@gmail.com",
+            roll_number: "22BCE9001",
             odd_numbers: oddNumbers,
             even_numbers: evenNumbers,
             alphabets: alphabets,

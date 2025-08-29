@@ -37,9 +37,10 @@ json
 json
 {
   "is_success": true,
-  "user_id": "john_doe_17091999",
-  "email": "john@xyz.com",
-  "roll_number": "ABCD123",
+  "user_id": "csharikrishna",
+  "email": "harikrishna.22bce9001@vitapstudent.ac.in
+",
+  "roll_number": "22BCE9001",
   "odd_numbers": ["1"],
   "even_numbers": ["334", "4"],
   "alphabets": ["A", "R"],
@@ -83,28 +84,6 @@ You can test the API using **Postman** or **curl**:
 curl -X POST http://localhost:3000/bfhl \
 -H "Content-Type: application/json" \
 -d '{"data": ["a","1","334","4","R", "$"]}'
-
-
-## Deployment on Vercel
-
-Add a `vercel.json` file:
-
-json
-{
-  "version": 2,
-  "builds": [
-    {
-      "src": "./server.js",
-      "use": "@vercel/node"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/"
-    }
-  ]
-}
 
 
 

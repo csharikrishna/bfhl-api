@@ -4,7 +4,7 @@ A REST API built for the VIT Full Stack assignment.
 
 
 
-## 🚀 Setup
+##  Setup
 
 1. **Install dependencies**
 

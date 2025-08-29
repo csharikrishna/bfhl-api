@@ -12,6 +12,10 @@ A REST API built for the VIT Full Stack assignment.
 
    npm start
 
+3 **For development (auto-restart with nodemon)**
+
+   npm run dev
+   
 ##  API Endpoints
 
 ### **POST /bfhl**
@@ -30,7 +34,7 @@ json
 json
 {
   "is_success": true,
-  "user_id": "csharikrishna",
+  "user_id": "chinnapattus_harikrishna_18062005",
   "email": "harikrishna.22bce9001@vitapstudent.ac.in
 ",
   "roll_number": "22BCE9001",
